@@ -1,0 +1,50 @@
+header{
+    background-color: #333;
+    color:white;
+    text-align: center;
+    margin: auto;
+    width: 100%;
+}
+h1{
+    padding: 10px;
+    width:100%;
+}
+
+body{
+    background-color: #C1C1C1;
+}
+table{
+    width: 100%;
+    border: 5px solid #333;
+    text-align: center;
+    border-spacing: 2px;
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+
+tr,td{
+    font-size: 20px;
+}
+
+#heading01{
+    color: white;
+    background-color: #333;
+}
+
+#days{
+    color: black;
+    background-color: seagreen;
+}
+
+#labs{
+    color: white;
+    background-color: #000066;
+}
+footer{
+    background-color: #333;
+    color:white;
+    text-align: center;
+    margin: auto;
+    width: 100%;
+    font-size: 20px;
+}
